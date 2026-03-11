@@ -268,11 +268,13 @@ Activa modo desarrollo:
 
 
 ## Pruebas
-***POST***
+## ***POST***
 ![Uso del método POST con POSTMAN para crear el registro de un alumno.](./images/Metodo_POST.png)
 
-***GET***
+## ***GET***
+
 ![Uso del método GET con el navegador para ver todos los registros de los alumnos.](./images/Metodo_GET.png)
 
-***GET por ID***
+## ***GET por ID***  
+
 ![Uso del método GET con el navegador para ver los registros de los alumnos por ID.](./images/Metodo_GET_ID.png)
